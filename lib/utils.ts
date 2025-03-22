@@ -21,4 +21,3 @@ export function getCategoryColor(category: string): string {
       return "bg-gray-100 text-gray-800"
   }
 }
-

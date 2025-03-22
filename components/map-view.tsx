@@ -78,4 +78,3 @@ export default function MapView({ locations, onLocationSelect, selectedLocation 
     </div>
   )
 }
-

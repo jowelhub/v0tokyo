@@ -49,4 +49,3 @@ export default function ListView({ locations, onLocationSelect, selectedLocation
     </div>
   )
 }
-

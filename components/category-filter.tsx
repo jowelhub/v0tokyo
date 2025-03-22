@@ -71,4 +71,3 @@ export default function CategoryFilter({ categories, onFilterChange }: CategoryF
     </div>
   )
 }
-
